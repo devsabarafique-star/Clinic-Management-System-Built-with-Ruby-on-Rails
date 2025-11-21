@@ -94,28 +94,5 @@ run the test with:
 ```
 rails exec rspec
 ```
-## Visit And Open Files
-
-[Visit Repo](https://github.com/Gegardus/healthcare-center)
-
-## Clone Repo
-
-[Clone Repo](https://github.com/Gegardus/healthcare-center.git)
-
-## Author
-
-👤 **Vahan Khachvankian**
-
-- GitHub: [@githubhandle](https://github.com/Gegardus)
-- Twitter: [@twitterhandle](https://twitter.com/Gegardus)
-- LinkedIn: [@linkedinhandle](https://www.linkedin.com/in/vahan-khachvankian)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](https://github.com/Gegardus/healthcare-center/issues).
-
-## Show your support
-
 Give a ⭐️ if you like this project!
