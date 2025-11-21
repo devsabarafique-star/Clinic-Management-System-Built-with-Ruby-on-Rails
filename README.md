@@ -94,5 +94,3 @@ run the test with:
 ```
 rails exec rspec
 ```
-Feel free to check the [issues page](https://github.com/Gegardus/healthcare-center/issues).
-Give a ⭐️ if you like this project!
